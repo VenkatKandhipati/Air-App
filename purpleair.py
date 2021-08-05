@@ -46,7 +46,7 @@ class PurpleAirAPI():
         finally:
             if response != None:
                 response.close()
-
+        # print(json_text)
         return json.loads(json_text)
 
 class PurpleAirFile():

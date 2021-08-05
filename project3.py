@@ -69,7 +69,7 @@ def strun():
 
     st.write("""
     # Hello!
-    ## If you would like to know if there are any "hotspots" with bad air quality near you, please follow the prompt below.
+    ## If you would like to know if there are any "hotspots" with bad air quality near you, please enter your location below.
     """)
     image = Image.open('AQI.jpg')
     st.sidebar.markdown('''
@@ -79,7 +79,7 @@ def strun():
     st.sidebar.write('')
     st.sidebar.write('\n\nThe higher the level :arrow_right: the greater the health concern :skull:')
     st.sidebar.image(image, caption='AQI readings chart')
-    center = st.text_input(f'Enter your location')
+    center = st.text_input(f'Enter location here')
     return center
 
 def strunnext(center):
