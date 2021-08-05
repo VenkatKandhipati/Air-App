@@ -79,7 +79,7 @@ def strun():
     st.sidebar.write('')
     st.sidebar.write('\n\nThe higher the level :arrow_right: the greater the health concern :skull:')
     st.sidebar.image(image, caption='AQI readings chart')
-    center = st.text_input(f'Enter location here')
+    center = st.text_input(f'Enter location here:')
     return center
 
 def strunnext(center):
