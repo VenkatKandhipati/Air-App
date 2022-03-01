@@ -79,6 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<img src="AQI_example.png" alt="example">
 [![AQI_example.png][AQI_example.png]](https://aqichecker.herokuapp.com/)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
