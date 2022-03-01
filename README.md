@@ -19,7 +19,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/venkatkandhipati]
+<!-- [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/venkatkandhipati] -->
 
 
 
@@ -30,9 +30,9 @@
     <img src="app_image.png" alt="Logo" width="100" height="100">
   </a>
 
-<h3 align="center">Air Quality Checker</h3>
+<h2 align="center">Air Quality Checker</h2>
 
-  <p align="center">
+<!--   <p align="center">
     project_description
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
@@ -43,7 +43,7 @@
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
+  </p> -->
 </div>
 
 
@@ -65,12 +65,12 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+<!--     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li> -->
   </ol>
 </details>
 
@@ -79,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][AQI_example.png]](https://aqichecker.herokuapp.com/)
+[![AQI_example.png][AQI_example.png]](https://aqichecker.herokuapp.com/)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -89,14 +89,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://www.python.org/)
+* [Streamlit](https://streamlit.io/)
+* [Heroku](https://streamlit.io/)
+* [Purple Air API](https://api.purpleair.com/)
+* [Geoapigy Location Autocomplete API](https://www.geoapify.com/address-autocomplete)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
