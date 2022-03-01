@@ -60,10 +60,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
 <!--     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -81,6 +77,7 @@
 
 <img src="AQI_example.png" alt="example">
 
+
 Users can visit this application to find locations near them with bad air quality, measured in the AQI scale.
 
 A radius slider allows for users to select the range of their search.
@@ -88,6 +85,8 @@ A radius slider allows for users to select the range of their search.
 The search box is where users can enter their address (or general location) which will then populate the below drop down menu with the autocompleted locations they might be referring to.
 
 <img src="autocomplete_example.png" alt="autocomplete example">
+
+
 
 A progress bar will then show the time it takes for the application to display the results to the user.
 
@@ -102,7 +101,7 @@ A progress bar will then show the time it takes for the application to display t
 * [Streamlit](https://streamlit.io/)
 * [Heroku](https://streamlit.io/)
 * [Purple Air API](https://api.purpleair.com/)
-* [Geoapigy Location Autocomplete API](https://www.geoapify.com/address-autocomplete)
+* [Geoapify Location Autocomplete API](https://www.geoapify.com/address-autocomplete)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
