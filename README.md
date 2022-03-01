@@ -116,7 +116,7 @@ Visit the [application](https://aqichecker.herokuapp.com/) here.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Venkat Kandhipati - kandhipati.venkat@gmail.com
+Venkat Kandhipati - kandhipati.venkat@gmail.com
 
 <!-- Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name) -->
 
