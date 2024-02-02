@@ -108,11 +108,6 @@ A progress bar will then show the time it takes for the application to display t
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-Visit the [application](https://aqichecker.herokuapp.com/) here.
-
 <!-- CONTACT -->
 ## Contact
 
